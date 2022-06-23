@@ -16,7 +16,7 @@ In the first analysis, it was determined the luanch date and what are the outcom
 
 ### Analysis of Outcomes Based on Launch Date
 
-Theater_Outcomes_vs_Launch.png
+![alt text](Theater_Outcomes_vs_Launch.png)
 
  Based on this analysis, Louise's main interest is on the theater data. This data was filtered by this particular cataegory from the pivot table and result of the outcomes( successful,failed and failed).
 
@@ -26,7 +26,7 @@ Theater_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Goals
 
-Outcomes_Vs_Goals.png
+![](Outcomes_Vs_Goals.png)
 
 By looking at the above visualization chart, Louise's main interest is in th eplayes subcategory, so additional filters was applied. Here's goals were ranged into grops od $5000. Thne by the use of COUNTIF  function , we will be able to find the number of suceesful, failed and canceled outcomes. Then with the help of SUM functiona and round function, able to find the percentage of successful, failed and canceled outcomes.
 
